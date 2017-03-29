@@ -104,7 +104,7 @@ public class Principal extends AppCompatActivity {
                 precio=110;
             }
             if(material.equalsIgnoreCase(getResources().getString(R.string.cuerda)) && dije.equalsIgnoreCase(getString(R.string.ancla)) && tipo.equalsIgnoreCase(getString(R.string.oroR))){
-                precio=100;
+                precio=110;
             }
             if(material.equalsIgnoreCase(getResources().getString(R.string.cuerda)) && dije.equalsIgnoreCase(getString(R.string.ancla)) && tipo.equalsIgnoreCase(getString(R.string.plata))){
                 precio=90;
